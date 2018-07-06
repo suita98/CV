@@ -59,6 +59,7 @@
 IT-КУРСЫ:
 - CS50's Introduction to Computer Science
 - Introduction to Computer Science and Programming Using Python (MIT)
+- How to use Git and GitHub
 
 === ДОПОЛНИТЕЛЬНО ===
 
