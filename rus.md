@@ -43,18 +43,10 @@
 * Умение искать источник с необходимой информацией, способность к самообучению
 
 
-#### IT-КУРСЫ:
-
-* CS50's Introduction to Computer Science (Harvard)
-* Introduction to Computer Science and Programming Using Python (MIT)
-* How to use Git and GitHub (Udacity)
-* Intro to JavaScript (Udacity)
-
-
 ## ОПЫТ РАБОТЫ
 
 #### С августа 2018 г. - ООО "GDC Services"
-##### стажер-тестировщик
+###### стажер-тестировщик
 
 * Решение учебных задач по тестированию
 * Участие в международном проекте:
@@ -95,6 +87,12 @@
 #### ВЫСШЕЕ:
 * 2008-2013 г.г.  – Казанский (Приволжский) Федеральный Университет, специальность – психолог, преподаватель психологии
 * 2012-2014 г.г. – Казанский Государственный Медицинский Университет, профессиональная переподготовка по специальности Клинический (медицинский) психолог
+
+#### IT-КУРСЫ:
+* CS50's Introduction to Computer Science (Harvard)
+* Introduction to Computer Science and Programming Using Python (MIT)
+* How to use Git and GitHub (Udacity)
+* Intro to JavaScript (Udacity)
 
 #### ПРИКЛАДНОЙ АНАЛИЗ ПОВЕДЕНИЯ:
 * Первый и второй дистанционные сертифицированные курсы по подготовке специалистов по прикладному анализу поведения уровня BCaBA
