@@ -59,9 +59,10 @@
 * Первый, второй и третий очные сертифицированные курсы по подготовке специалистов по прикладному анализу поведения уровня BCBA
 
 #### IT-КУРСЫ:
-* CS50's Introduction to Computer Science
+* CS50's Introduction to Computer Science (Harvard)
 * Introduction to Computer Science and Programming Using Python (MIT)
-* How to use Git and GitHub
+* How to use Git and GitHub (Udacity)
+* Intro to JavaScript (Udacity)
 
 ## ДОПОЛНИТЕЛЬНО
 
